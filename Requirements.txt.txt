@@ -1,0 +1,5 @@
+## Requirements & Installation
+Ensure you have [Python](https://www.python.org/downloads/) installed on your system (remember to check the "Add Python to PATH" box during installation).
+
+You can run it in cmd window:
+pip install python-vlc mutagen pillow

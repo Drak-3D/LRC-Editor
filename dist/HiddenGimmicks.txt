@@ -1,0 +1,38 @@
+[ COPYING & UI LABELS ]
+
+Double-click on any label (filename, path, etc.) -> Copy to clipboard with visual feedback
+Double-click on audio filename -> Copy filename to clipboard
+Double-click on audio path -> Copy folder path to clipboard
+Double-click on timer -> Copy current timestamp in LRC format [mm:ss.xx]
+
+
+[ COVER ART ]
+
+Double-click on cover art -> Save cover as an image file
+Ctrl + Click on cover art -> Open full-size image in default viewer
+
+
+[ LYRICS & EDITING ]
+
+Press Enter in ORIGINAL lyrics column -> Creates a new line with the current playback time
+Click on line number in the gutter (left side) -> Jump to that timestamp
+Shift + Mouse Wheel on lyrics -> Scroll line by line (fast navigation)
+Triple right-click on any lyrics column -> Clear the entire column
+
+
+[ PLAYBACK & SEEKING ]
+
+Ctrl + Mouse Wheel -> Seek by +/- 0.1 seconds
+Ctrl + Scroll on seek bar area -> Fine seeking
+Mouse Wheel inside Local Offset panel -> Controls playback (seek)
+
+
+[ SYNC FROM SCRATCH MODE (Ctrl+E) ]
+
+Enter / Space -> Stamps the current playback time onto the active line and auto-advances.
+A / Left Arrow -> Jumps to the previous line AND seeks the audio track to that line's timestamp.
+D / Right Arrow -> Jumps to the next line AND seeks the audio track to that line's timestamp.
+Z / Up Arrow -> Jumps to the previous line WITHOUT changing the current audio playback time.
+C / Down Arrow -> Jumps to the next line WITHOUT changing the current audio playback time.
+Shift + Mouse Wheel -> Shifts the global track playback time continuously by 1-second intervals.
+Double-click on a line -> Immediately seeks audio playback directly to that line's embedded timestamp.
