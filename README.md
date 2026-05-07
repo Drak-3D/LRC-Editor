@@ -1,4 +1,4 @@
-# LRC Time Shifter
+# Ultimate LRC Editor
 
 A compact and powerful Python tool for playing music, as well as creating, editing, and synchronizing lyrics (LRC)
 
